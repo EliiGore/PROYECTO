@@ -1,0 +1,35 @@
+
+#titulouno{
+text-align: left;
+}
+#titulodos{
+text-align: left;
+
+}
+#titulotres{
+text-align: left;
+
+}
+#titulocuatro{
+text-align: left;
+
+}
+#titulocinco{
+text-align: left;
+
+}
+#tituloseis{
+text-align: left;
+}
+
+#content {
+	float: left;
+	width: 620px;
+	padding: 0px 20px;
+}
+
+#arto{
+	padding: 0px 0px 0px 0px;
+	background: url(images/01.jpg) ;
+}
+
